@@ -1,2 +1,2 @@
-# Online-Practice-Resume
+# html-resume
 Just a Practice
